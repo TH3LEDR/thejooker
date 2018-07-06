@@ -1,4 +1,4 @@
-﻿# <p align="center" style="color:#cb3349" > v3 بوت فير توكن - вσт νєя ™
+﻿# <p align="center" style="color:#cb3349" > v3 بوت جوكر توكن - вσт JOKER ™
 
  <p align="center" style="color: #14635c;" > **بوت جوكر الاقوى والاحدث لحمايت المجموعات في التلجرام**
 
@@ -15,7 +15,7 @@
 <br>💢¦ اترك الترمنال مفتوح وافتح ترمنال جديد وخلي
 <br>
 
-`git clone https://github.com/alsaray/vertoken.git && cd vertoken && chmod +x launch.sh && ./launch.sh install && ./launch.sh`
+`git clone https://github.com/TH3LEDR/ZAIN.JOKER.git && cd ZAIN.JOKER && chmod +x launch.sh && ./launch.sh install && ./launch.sh`
 
 
 
