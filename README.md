@@ -1,4 +1,4 @@
-﻿# <p align="center" style="color:#cb3349" > v3 بوت جوكر توكن - вσт JOKER ™
+﻿# <p align="center" style="color:#cb3349" > v3 بوت جوكر توكن - BOT JOKER ™
 
  <p align="center" style="color: #14635c;" > **بوت جوكر الاقوى والاحدث لحمايت المجموعات في التلجرام**
 
